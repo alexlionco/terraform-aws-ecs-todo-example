@@ -1,0 +1,10 @@
+.idea
+.terraform
+.vagrant
+todo-app
+*.hcl
+*.backup
+*.tfvars
+*.tfstate
+
+.DS_Store
